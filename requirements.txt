@@ -3,3 +3,12 @@ python-dotenv
 openai
 pandas
 langchain_community
+ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
