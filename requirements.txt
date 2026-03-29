@@ -2,7 +2,7 @@ langchain
 python-dotenv
 openai
 pandas
-langchain_community
+langchain-community
 ipykernel
 pypdf
 bs4
