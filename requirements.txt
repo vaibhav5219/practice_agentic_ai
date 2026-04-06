@@ -18,3 +18,4 @@ faiss-cpu
 langchain_chroma
 beautifulsoup4
 langchain
+streamlit
