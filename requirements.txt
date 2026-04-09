@@ -19,3 +19,10 @@ langchain_chroma
 beautifulsoup4
 langchain
 streamlit
+langchain_core
+langchain_groq
+uvicorn
+fastapi
+sse_starlette
+langserve
+langchain_openai
