@@ -26,3 +26,4 @@ fastapi
 sse_starlette
 langserve
 langchain_openai
+langchain-chroma
