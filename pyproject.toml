@@ -11,3 +11,8 @@ dependencies = [
     "pandas>=3.0.1",
     "python-dotenv>=1.2.2",
 ]
+
+[tool.uv.workspace]
+members = [
+    "1-Langchain/Updated-Langchain",
+]

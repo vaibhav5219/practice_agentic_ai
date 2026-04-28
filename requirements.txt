@@ -27,3 +27,4 @@ sse_starlette
 langserve
 langchain_openai
 langchain-chroma
+langchain-google-genai
