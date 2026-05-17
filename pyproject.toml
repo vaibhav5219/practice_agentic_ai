@@ -15,4 +15,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "1-Langchain/Updated-Langchain",
+    "1-LangGraph",
 ]
