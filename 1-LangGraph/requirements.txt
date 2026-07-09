@@ -7,3 +7,4 @@ langchain_openai
 langchain_groq
 arxiv
 wikipedia
+langgraph-cli[inmem]
